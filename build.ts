@@ -1,5 +1,5 @@
 // Builds the site into dist/. Run with `node build.ts` (Node 22.6+ runs TypeScript directly).
-// Content: content/index.md (home page), content/posts/*.md (writing), static/ (copied as is).
+// Content: content/index.md (home page), content/posts/*.md (blog posts), static/ (copied as is).
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, cpSync, rmSync, existsSync } from "node:fs";
 import { join, basename } from "node:path";
 import { Marked } from "marked";
@@ -95,7 +95,7 @@ ${opts.math ? `<link rel="stylesheet" href="${r}katex/katex.min.css">` : ""}
   <nav>
     <a href="${r}#publications">Papers</a>
     <a href="${r}#projects">Software</a>
-    <a href="${r}#writing">Writing</a>
+    <a href="${r}#blog">Blog</a>
     <a href="${r}cv.pdf">CV</a>
   </nav>
 </header>
