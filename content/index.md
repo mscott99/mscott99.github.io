@@ -46,13 +46,16 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**: an Obsidian plugin that compiles a graph of linked Markdown notes, with embeds, citations, theorems and cross-references, into one LaTeX paper. TypeScript. **Over 4,700 downloads**, 44 GitHub stars.
 - **Cracker Craft**: a fireworks game for Android. C#, Unity, Blender. **Over 10,000 downloads** on Google Play.
 
+<h2 id="video">Video</h2>
+
+- **[Balloons and the Legendre Transform](https://www.youtube.com/watch?v=8VHjDtwmsbE)**: an animated video explaining the Legendre transform through balloons, 2022.
+
 <!-- Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers, run on Slurm clusters), and Machinations, a turn-based multiplayer duelling game; demo link hidden while it 404s (repo mscott99/Machinations is private): https://mscott99.github.io/Machinations/Executables/web/index.html -->
 
 <h2 id="writing">Writing</h2>
 
 <!-- posts -->
 
-- [The Legendre transform, animated](https://www.youtube.com/watch?v=8VHjDtwmsbE) (video, 2022)
 - [Obsidian for research](https://mscott99.github.io/matthew_s_scott_zettel/): notes from my workshop on graph-based writing, with setup guides for citations, LaTeX and daily notes
 
 ## Experience
