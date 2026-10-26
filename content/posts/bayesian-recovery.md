@@ -7,7 +7,7 @@ origin: https://mpf-optimization-laboratory.github.io/opt-blog/posts/bayesian-re
 
 The field of compressed sensing consists of quantifying how many linear measurements are required to locate an unknown signal within a known prior set. The *a priori* knowledge is of a deterministic kind; we only know the set to which the signal belongs. In this post we explore the process of signal recovery with a different kind of prior knowledge: that we know the signal to be sampled from a prior distribution, instead of a prior set.
 
-This assumption puts us into a Bayesian setting, for we have a prior distribution---before the measurements---and a posterior distribution: a distribution which has a support limited to signals that have measurements matching the observed measurements. The posterior distribution is given by conditioning the prior distribution on the observed measurements.
+This assumption puts us into a Bayesian setting, for we have a prior distribution—before the measurements—and a posterior distribution: a distribution which has a support limited to signals that have measurements matching the observed measurements. The posterior distribution is given by conditioning the prior distribution on the observed measurements.
 
 We recover the signal by sampling from this posterior distribution. Then we ask: How close to the true signal can we expect our guess to be?
 
