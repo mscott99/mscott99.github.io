@@ -48,7 +48,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)** (TypeScript): an Obsidian plugin that compiles a graph of linked Markdown notes, with embeds, citations, theorems and cross-references, into one LaTeX paper. Over 4,700 downloads.
 - **Research numerics** (Julia, Python): generative priors and signal-recovery experiments for the compressed-sensing papers, run as batch pipelines on Slurm clusters.
 - **Cracker Craft** (C#, Unity): a fireworks game for Android, over 10,000 downloads on Google Play.
-- **Machinations**: a turn-based multiplayer duelling game.
+- **Machinations**: a turn-based multiplayer duelling game. <!-- link hidden while the demo is down (repo mscott99/Machinations is private, so Pages 404s): https://mscott99.github.io/Machinations/Executables/web/index.html -->
 
 ## Experience
 
