@@ -27,17 +27,17 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 <h2 id="publications">Selected papers</h2>
 
-- **Convexity from order: a theory of faces and generalized separation.** Sole author. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
-- **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Set-Valued and Variational Analysis, in revision. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
-- **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. SIAM Journal on Optimization, in revision. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
+- **Convexity from order: a theory of faces and generalized separation.** Sole author. Journal of Convex Analysis, submitted. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
+- **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Set-Valued and Variational Analysis, major revisions. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
+- **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. SIAM Journal on Optimization, second round of revisions. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
 - **Denoising guarantees for optimized sampling schemes in compressed sensing.** With Y. Plan, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)
 - **A coherence parameter characterizing generative compressed sensing with Fourier measurements.** With A. Berk, S. Brugiapaglia, B. Joshi, Y. Plan, Ö. Yılmaz. IEEE Journal on Selected Areas in Information Theory, 2022. [arXiv:2207.09340](https://arxiv.org/abs/2207.09340)
 
 <p class="more">All papers: <a href="https://scholar.google.com/citations?user=0vygvrcAAAAJ">Google Scholar</a> · <a href="cv.pdf">CV</a></p>
 
 <!-- Other papers, hidden from the home page:
-- Exact signal recovery from generative priors with sigmoid output activation. Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted.
-- Partially deterministic sampling for compressed sensing with denoising guarantees. Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted. arXiv:2604.04802
+- Exact signal recovery from generative priors with sigmoid output activation. Y. Plan, M. S. Scott, Ö. Yılmaz. Sampling Theory, Signal Processing, and Data Analysis, submitted.
+- Partially deterministic sampling for compressed sensing with denoising guarantees. Y. Plan, M. S. Scott, Ö. Yılmaz. Information and Inference (IMA), submitted. arXiv:2604.04802
 - Model-adapted Fourier sampling for generative compressed sensing. A. Berk, S. Brugiapaglia, Y. Plan, M. S. Scott, X. Sheng, Ö. Yılmaz. NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, oral.
 -->
 
