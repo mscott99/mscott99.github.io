@@ -25,23 +25,28 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 </div>
 </section>
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Selected papers</h2>
 
-- **Convexity from order: a theory of faces and generalized separation.** M. S. Scott. Submitted. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
-- **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** M. S. Scott. Set-Valued and Variational Analysis, major revisions. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
-- **Average-case thresholds for exact regularization of linear programs.** M. P. Friedlander, S. Kubal, Y. Plan, M. S. Scott. SIAM Journal on Optimization, in revision. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
-- **Exact signal recovery from generative priors with sigmoid output activation.** Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted.
-- **Partially deterministic sampling for compressed sensing with denoising guarantees.** Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted. [arXiv:2604.04802](https://arxiv.org/abs/2604.04802)
-- **Denoising guarantees for optimized sampling schemes in compressed sensing.** Y. Plan, M. S. Scott, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)
-- **Model-adapted Fourier sampling for generative compressed sensing.** A. Berk, S. Brugiapaglia, Y. Plan, M. S. Scott, X. Sheng, Ö. Yılmaz. NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, oral.
-- **A coherence parameter characterizing generative compressed sensing with Fourier measurements.** A. Berk, S. Brugiapaglia, B. Joshi, Y. Plan, M. S. Scott, Ö. Yılmaz. IEEE Journal on Selected Areas in Information Theory, 2022. [arXiv:2207.09340](https://arxiv.org/abs/2207.09340)
+- **Convexity from order: a theory of faces and generalized separation.** Sole author. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
+- **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Set-Valued and Variational Analysis, in revision. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
+- **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. SIAM Journal on Optimization, in revision. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
+- **Denoising guarantees for optimized sampling schemes in compressed sensing.** With Y. Plan, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)
+- **A coherence parameter characterizing generative compressed sensing with Fourier measurements.** With A. Berk, S. Brugiapaglia, B. Joshi, Y. Plan, Ö. Yılmaz. IEEE Journal on Selected Areas in Information Theory, 2022. [arXiv:2207.09340](https://arxiv.org/abs/2207.09340)
 
-<h2 id="projects">Projects</h2>
+<p class="more">All papers: <a href="https://scholar.google.com/citations?user=0vygvrcAAAAJ">Google Scholar</a> · <a href="cv.pdf">CV</a></p>
 
-- **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)** (TypeScript): an Obsidian plugin that compiles a graph of linked Markdown notes, with embeds, citations, theorems and cross-references, into one LaTeX paper. Over 4,700 downloads.
-- **Cracker Craft** (C#, Unity, Blender): a fireworks game for Android, over 10,000 downloads on Google Play.
+<!-- Other papers, hidden from the home page:
+- Exact signal recovery from generative priors with sigmoid output activation. Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted.
+- Partially deterministic sampling for compressed sensing with denoising guarantees. Y. Plan, M. S. Scott, Ö. Yılmaz. Submitted. arXiv:2604.04802
+- Model-adapted Fourier sampling for generative compressed sensing. A. Berk, S. Brugiapaglia, Y. Plan, M. S. Scott, X. Sheng, Ö. Yılmaz. NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, oral.
+-->
 
-Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers, run on Slurm clusters), and **Machinations**, a turn-based multiplayer duelling game. <!-- link hidden while the demo is down (repo mscott99/Machinations is private, so Pages 404s): https://mscott99.github.io/Machinations/Executables/web/index.html -->
+<h2 id="projects">Software</h2>
+
+- **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**: an Obsidian plugin that compiles a graph of linked Markdown notes, with embeds, citations, theorems and cross-references, into one LaTeX paper. TypeScript. **Over 4,700 downloads**, 44 GitHub stars.
+- **Cracker Craft**: a fireworks game for Android. C#, Unity, Blender. **Over 10,000 downloads** on Google Play.
+
+<!-- Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers, run on Slurm clusters), and Machinations, a turn-based multiplayer duelling game; demo link hidden while it 404s (repo mscott99/Machinations is private): https://mscott99.github.io/Machinations/Executables/web/index.html -->
 
 <h2 id="writing">Writing</h2>
 
