@@ -7,6 +7,7 @@ import katex from "katex";
 
 const OUT = "dist";
 const SITE = "Matthew S. Scott";
+const URL = "https://mscott99.github.io/";
 
 type Meta = Record<string, string>;
 type Post = { slug: string; meta: Meta; body: string };
@@ -69,8 +70,9 @@ function fmtDate(d: string): string {
   return t.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 }
 
-function page(title: string, body: string, opts: { root: string; math?: boolean; description?: string }): string {
+function page(title: string, body: string, opts: { root: string; path: string; math?: boolean; description?: string }): string {
   const r = opts.root;
+  const url = URL + opts.path;
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -78,6 +80,12 @@ function page(title: string, body: string, opts: { root: string; math?: boolean;
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 ${opts.description ? `<meta name="description" content="${esc(opts.description)}">` : ""}
+<link rel="canonical" href="${url}">
+<link rel="icon" href="${r}favicon.png">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:url" content="${url}">
+<meta property="og:image" content="${URL}photo.jpg">
+${opts.description ? `<meta property="og:description" content="${esc(opts.description)}">` : ""}
 <link rel="stylesheet" href="${r}style.css">
 ${opts.math ? `<link rel="stylesheet" href="${r}katex/katex.min.css">` : ""}
 </head>
@@ -88,7 +96,6 @@ ${opts.math ? `<link rel="stylesheet" href="${r}katex/katex.min.css">` : ""}
     <a href="${r}#writing">Writing</a>
     <a href="${r}#research">Research</a>
     <a href="${r}cv.pdf">CV</a>
-    <a href="https://mscott99.github.io/matthew_s_scott_zettel/">Notes</a>
   </nav>
 </header>
 <main>
@@ -142,13 +149,13 @@ ${md(p.body)}
 </article>`;
     const dir = join(OUT, "posts", p.slug);
     mkdirSync(dir, { recursive: true });
-    writeFileSync(join(dir, "index.html"), page(`${p.meta.title} | ${SITE}`, body, { root: "../../", math: true, description: p.meta.summary }));
+    writeFileSync(join(dir, "index.html"), page(`${p.meta.title} | ${SITE}`, body, { root: "../../", path: `posts/${p.slug}/`, math: true, description: p.meta.summary }));
   }
 
   const { meta, body } = frontMatter(readFileSync("content/index.md", "utf8"));
   const home = md(body).replace("<p><!-- posts --></p>", postList(posts)).replace("<!-- posts -->", postList(posts));
-  writeFileSync(join(OUT, "index.html"), page(SITE, home, { root: "", math: true, description: meta.description }));
-  writeFileSync(join(OUT, "404.html"), page(`Not found | ${SITE}`, `<h1>Not found</h1><p><a href="/">Home</a></p>`, { root: "/" }));
+  writeFileSync(join(OUT, "index.html"), page(SITE, home, { root: "", path: "", math: true, description: meta.description }));
+  writeFileSync(join(OUT, "404.html"), page(`Not found | ${SITE}`, `<h1>Not found</h1><p><a href="/">Home</a></p>`, { root: "/", path: "404.html" }));
   writeFileSync(join(OUT, ".nojekyll"), "");
   console.log(`built ${posts.length} posts into ${OUT}/`);
 }

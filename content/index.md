@@ -20,7 +20,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 <a href="https://github.com/mscott99">GitHub</a> ·
 <a href="https://scholar.google.com/citations?user=0vygvrcAAAAJ">Google Scholar</a> ·
 <a href="https://www.linkedin.com/in/matthew-scott-4387a3138/">LinkedIn</a> ·
-<a href="https://mscott99.github.io/matthew_s_scott_zettel/">Notes</a>
+<a href="https://mscott99.github.io/matthew_s_scott_zettel/">Obsidian guides</a>
 </p>
 </div>
 </section>
@@ -30,7 +30,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 <!-- posts -->
 
 - [The Legendre transform, animated](https://www.youtube.com/watch?v=8VHjDtwmsbE) (video, 2022)
-- My public research notes, a linked Zettelkasten: [mscott99.github.io/matthew_s_scott_zettel](https://mscott99.github.io/matthew_s_scott_zettel/)
+- [Obsidian for research](https://mscott99.github.io/matthew_s_scott_zettel/): notes from my workshop on graph-based writing, with setup guides for citations, LaTeX and daily notes
 
 <h2 id="research">Research</h2>
 
