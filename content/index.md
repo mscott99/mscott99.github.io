@@ -52,7 +52,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 <!-- Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers, run on Slurm clusters), and Machinations, a turn-based multiplayer duelling game; demo link hidden while it 404s (repo mscott99/Machinations is private): https://mscott99.github.io/Machinations/Executables/web/index.html -->
 
-<h2 id="writing">Writing</h2>
+<h2 id="blog">Blog posts</h2>
 
 <!-- posts -->
 
