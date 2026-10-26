@@ -1,0 +1,12 @@
+{
+  "name": "mscott99.github.io",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.ts"
+  },
+  "dependencies": {
+    "katex": "^0.19.1",
+    "marked": "^18.1.2"
+  }
+}
