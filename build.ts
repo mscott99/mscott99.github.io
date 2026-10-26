@@ -93,8 +93,9 @@ ${opts.math ? `<link rel="stylesheet" href="${r}katex/katex.min.css">` : ""}
 <header class="site">
   <a class="name" href="${r}">${SITE}</a>
   <nav>
+    <a href="${r}#publications">Publications</a>
+    <a href="${r}#projects">Projects</a>
     <a href="${r}#writing">Writing</a>
-    <a href="${r}#research">Research</a>
     <a href="${r}cv.pdf">CV</a>
   </nav>
 </header>

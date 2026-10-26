@@ -25,14 +25,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 </div>
 </section>
 
-<h2 id="writing">Writing</h2>
-
-<!-- posts -->
-
-- [The Legendre transform, animated](https://www.youtube.com/watch?v=8VHjDtwmsbE) (video, 2022)
-- [Obsidian for research](https://mscott99.github.io/matthew_s_scott_zettel/): notes from my workshop on graph-based writing, with setup guides for citations, LaTeX and daily notes
-
-<h2 id="research">Research</h2>
+<h2 id="publications">Publications</h2>
 
 - **Convexity from order: a theory of faces and generalized separation.** M. S. Scott. Submitted. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
 - **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** M. S. Scott. Set-Valued and Variational Analysis, major revisions. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
@@ -43,12 +36,19 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **Model-adapted Fourier sampling for generative compressed sensing.** A. Berk, S. Brugiapaglia, Y. Plan, M. S. Scott, X. Sheng, Ö. Yılmaz. NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, oral.
 - **A coherence parameter characterizing generative compressed sensing with Fourier measurements.** A. Berk, S. Brugiapaglia, B. Joshi, Y. Plan, M. S. Scott, Ö. Yılmaz. IEEE Journal on Selected Areas in Information Theory, 2022. [arXiv:2207.09340](https://arxiv.org/abs/2207.09340)
 
-## Software
+<h2 id="projects">Projects</h2>
 
 - **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)** (TypeScript): an Obsidian plugin that compiles a graph of linked Markdown notes, with embeds, citations, theorems and cross-references, into one LaTeX paper. Over 4,700 downloads.
-- **Research numerics** (Julia, Python): generative priors and signal-recovery experiments for the compressed-sensing papers, run as batch pipelines on Slurm clusters.
-- **Cracker Craft** (C#, Unity): a fireworks game for Android, over 10,000 downloads on Google Play.
-- **Machinations**: a turn-based multiplayer duelling game. <!-- link hidden while the demo is down (repo mscott99/Machinations is private, so Pages 404s): https://mscott99.github.io/Machinations/Executables/web/index.html -->
+- **Cracker Craft** (C#, Unity, Blender): a fireworks game for Android, over 10,000 downloads on Google Play.
+
+Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers, run on Slurm clusters), and **Machinations**, a turn-based multiplayer duelling game. <!-- link hidden while the demo is down (repo mscott99/Machinations is private, so Pages 404s): https://mscott99.github.io/Machinations/Executables/web/index.html -->
+
+<h2 id="writing">Writing</h2>
+
+<!-- posts -->
+
+- [The Legendre transform, animated](https://www.youtube.com/watch?v=8VHjDtwmsbE) (video, 2022)
+- [Obsidian for research](https://mscott99.github.io/matthew_s_scott_zettel/): notes from my workshop on graph-based writing, with setup guides for citations, LaTeX and daily notes
 
 ## Experience
 
