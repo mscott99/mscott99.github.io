@@ -27,7 +27,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 <h2 id="publications">Selected papers</h2>
 
-- **Convexity from order: a theory of faces and generalized separation.** Sole author. Journal of Convex Analysis, submitted. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
+- **Convexity from order: a theory of faces and generalized separation.** Sole author. Journal of Convex Analysis, major revisions. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
 - **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Set-Valued and Variational Analysis, major revisions. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
 - **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. SIAM Journal on Optimization, second round of revisions. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
 - **Denoising guarantees for optimized sampling schemes in compressed sensing.** With Y. Plan, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)

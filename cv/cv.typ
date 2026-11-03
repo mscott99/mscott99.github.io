@@ -45,7 +45,7 @@
 
 = Publications
 - Y. Plan, *M. S. Scott*, O. Yilmaz, _Exact signal recovery from generative priors with sigmoid output activation_, Sampling Theory, Signal Processing, and Data Analysis, submitted.
-- *M. S. Scott*, #link("https://arxiv.org/abs/2609.05775")[_Convexity from order: a theory of faces and generalized separation_], J. Convex Analysis, submitted.
+- *M. S. Scott*, #link("https://arxiv.org/abs/2609.05775")[_Convexity from order: a theory of faces and generalized separation_], J. Convex Analysis, major revisions.
 - Y. Plan, *M. S. Scott*, O. Yilmaz, #link("https://arxiv.org/abs/2604.04802")[_Partially deterministic sampling for compressed sensing with denoising guarantees_], Information and Inference (IMA), submitted.
 - M. P. Friedlander, S. Kubal, Y. Plan, *M. S. Scott*, #link("https://arxiv.org/abs/2510.13083")[_Average-case thresholds for exact regularization of linear programs_], SIAM J. Optimization, second round of revisions.
 - *M. S. Scott*, #link("https://arxiv.org/abs/2510.12244")[_Bilateral facial reduction: qualification-free subdifferential calculus and exact duality_], Set-Valued and Variational Analysis, major revisions.
