@@ -59,7 +59,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 ## Experience
 
-- **Small Class Instructor, Teaching and Research Assistant**, University of British Columbia, 2021–present. Teach my own small classes in MATH 180 and MATH 100 (differential calculus), large courses split into lectures and small classes.
+- **Teaching Assistant, Research Assistant and Small Class Instructor**, University of British Columbia, 2021–present.
 - **Research Assistant in Computer Science**, McGill University, with Prakash Panangaden, summer 2020. Computational improvements to Yaida's FDR optimizer, and application to actor-critic RL.
 - **Machine Learning Intern**, Decathlon Canada, Montreal. Built a recurrent-network sales forecaster that beat four of five in-house models.
 - **Web Application Developer**, GoRush, Montreal. Sole developer of an on-demand lawn-mowing app (JavaScript, Meteor, MongoDB).
