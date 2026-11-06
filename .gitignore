@@ -1,3 +1,4 @@
 node_modules/
 dist/
-cv/quant.typ
+cv/private.sh
+cv/*.pdf
