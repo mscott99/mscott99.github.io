@@ -60,7 +60,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 ## Experience
 
 - **Instructor, Teaching and Research Assistant**, University of British Columbia, 2021–present. Taught MATH 180 and MATH 100 (differential calculus).
-- **Research Assistant in Computer Science**, McGill University, with Prakash Panangaden, summer 2020. Improved the computation and performance of a fluctuation-dissipation learning-rate method (PyTorch), and studied its application to actor-critic reinforcement learning.
+- **Research Assistant in Computer Science**, McGill University, with Prakash Panangaden, summer 2020. Computational improvements to Yaida's FDR optimizer, and application to actor-critic RL.
 - **Machine Learning Intern**, Decathlon Canada, Montreal. Built a recurrent-network sales forecaster that beat four of five in-house models.
 - **Web Application Developer**, GoRush, Montreal. Sole developer of an on-demand lawn-mowing app (JavaScript, Meteor, MongoDB).
 
