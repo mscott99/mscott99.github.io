@@ -33,7 +33,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. Minor revisions (second round) at SIAM Journal on Optimization. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
 - **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Major revisions at Set-Valued and Variational Analysis. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
 - **Denoising guarantees for optimized sampling schemes in compressed sensing.** With Y. Plan, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)
-- **Model-adapted Fourier sampling for generative compressed sensing.** With A. Berk, S. Brugiapaglia, Y. Plan, X. Sheng, Ö. Yılmaz. Oral (6 of 39) at NeurIPS 2023 Workshop on Deep Learning and Inverse Problems.
+- **Model-adapted Fourier sampling for generative compressed sensing.** With A. Berk, S. Brugiapaglia, Y. Plan, X. Sheng, Ö. Yılmaz. Oral at NeurIPS 2023 Workshop on Deep Learning and Inverse Problems.
 - **A coherence parameter characterizing generative compressed sensing with Fourier measurements.** With A. Berk, S. Brugiapaglia, B. Joshi, Y. Plan, Ö. Yılmaz. IEEE Journal on Selected Areas in Information Theory, 2022. [arXiv:2207.09340](https://arxiv.org/abs/2207.09340)
 
 <p class="more">Also on <a href="https://scholar.google.com/citations?user=0vygvrcAAAAJ">Google Scholar</a> · <a href="cv.pdf">CV</a></p>
@@ -43,7 +43,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**: an Obsidian plugin that reads a paper's LaTeX structure off the note graph itself: a wikilink becomes a citation or a cross-reference, an embedded note becomes the theorem with its proof, so plain linked notes compile into one LaTeX paper. TypeScript. **Over 4,700 downloads**, 44 GitHub stars.
 - **[Experiments on Slurm](https://github.com/mscott99/Experiments_on_Slurm)**: a workflow tool that lays out a batch of experiments as a data frame, one row per run: some columns are the inputs, the others the outputs, filled in by running the rows in parallel on a Slurm cluster, so results go straight to plots. Python.
 <!-- - **Machinations**: a dueling tower-defense-like game, with both players building out opposing fortresses. (Hidden: project not public.) -->
-- **Cracker Craft**: a fireworks game for Android: design a custom firework, then watch it explode in the night sky. C#, Unity, Blender. **Over 10,000 downloads** on Google Play.
+- **Cracker Craft**: a fireworks game for Android: design a custom firework, then watch it explode in the night sky. C#, Unity, Blender. **Over 10,000 downloads** on the Google Play Store.
 
 <h2 id="video">Video</h2>
 
