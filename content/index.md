@@ -43,7 +43,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 - **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**: an Obsidian plugin that reads a paper's LaTeX structure off the note graph itself: a wikilink becomes a citation or a cross-reference, an embedded note becomes the theorem with its proof, so plain linked notes compile into one LaTeX paper. TypeScript. **Over 4,700 downloads**, 44 GitHub stars.
 - **[Experiments on Slurm](https://github.com/mscott99/Experiments_on_Slurm)**: a workflow tool that lays out a batch of experiments as a data frame, one row per run: some columns are the inputs, the others the outputs, filled in by running the rows in parallel on a Slurm cluster, so results go straight to plots. Python.
 <!-- - **Machinations**: a dueling tower-defense-like game, with both players building out opposing fortresses. (Hidden: project not public.) -->
-- **Cracker Craft**: a fireworks game for Android: design a firework by placing coloured stars around the charge, then set it off. C#, Unity, Blender. **Over 10,000 downloads** on Google Play.
+- **Cracker Craft**: a fireworks game for Android: design a custom firework, then watch it explode in the night sky. C#, Unity, Blender. **Over 10,000 downloads** on Google Play.
 
 <h2 id="video">Video</h2>
 
