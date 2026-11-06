@@ -29,7 +29,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 - **Exact signal recovery from generative priors with sigmoid output activation.** With Y. Plan, Ö. Yılmaz. Submitted to Sampling Theory, Signal Processing, and Data Analysis.
 - **Convexity from order: a theory of faces and generalized separation.** Sole author. Major revisions at Journal of Convex Analysis. [arXiv:2609.05775](https://arxiv.org/abs/2609.05775)
-- **Partially deterministic sampling for compressed sensing with denoising guarantees.** With Y. Plan, Ö. Yılmaz. Submitted to Information and Inference. [arXiv:2604.04802](https://arxiv.org/abs/2604.04802)
+- **Partially deterministic sampling for compressed sensing with denoising guarantees.** With Y. Plan, Ö. Yılmaz. Submitted to Information and Inference: A Journal of the IMA. [arXiv:2604.04802](https://arxiv.org/abs/2604.04802)
 - **Average-case thresholds for exact regularization of linear programs.** With M. P. Friedlander, S. Kubal, Y. Plan. Minor revisions, second round at SIAM Journal on Optimization. [arXiv:2510.13083](https://arxiv.org/abs/2510.13083)
 - **Bilateral facial reduction: qualification-free subdifferential calculus and exact duality.** Sole author. Major revisions at Set-Valued and Variational Analysis. [arXiv:2510.12244](https://arxiv.org/abs/2510.12244)
 - **Denoising guarantees for optimized sampling schemes in compressed sensing.** With Y. Plan, X. Sheng, Ö. Yılmaz. SIAM Journal on Mathematics of Data Science, 2026. [arXiv:2504.01046](https://arxiv.org/abs/2504.01046)
@@ -40,8 +40,9 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 <h2 id="projects">Software</h2>
 
-- **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**: an Obsidian plugin that reads a paper's LaTeX structure off the note graph itself: a wikilink becomes a citation or a cross-reference, an embedded note becomes the theorem with its proof, so plain linked notes compile into one LaTeX paper. TypeScript. **Over 4,700 downloads**, 44 GitHub stars.
-- **[Experiments on Slurm](https://github.com/mscott99/Experiments_on_Slurm)**: a workflow tool that lays out a batch of experiments as a data frame, one row per run: some columns are the inputs, the others the outputs, filled in by running the rows in parallel on a Slurm cluster, so results go straight to plots. Python.
+- **[Latex Exporter](https://github.com/mscott99/Latex-Exporter)**, **4,700+ downloads**, 44 GitHub stars (TypeScript). An Obsidian plugin that infers a paper's LaTeX structure from the note graph: wikilinks become citations or references, embedded notes become theorems with proofs.
+- **[Experiments on Slurm](https://github.com/mscott99/Experiments_on_Slurm)** (Python, Bash). Experiments as a data frame, one row per run: input columns set the variables, output columns are filled by running the rows in parallel on a Slurm cluster, ready to plot.
+- **[Research numerics](https://github.com/mscott99/Sparse_adapted_denoising)** (PyTorch, pandas, seaborn). Numerical experiments for signal recovery with sparse and generative priors.
 <!-- - **Machinations**: a dueling tower-defense-like game, with both players building out opposing fortresses. (Hidden: project not public.) -->
 - **Cracker Craft**, **10k+ Google Play Store downloads** (C#, Unity, Blender). Design your own firework!
 
@@ -49,7 +50,7 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 - **[Balloons and the Legendre Transform](https://www.youtube.com/watch?v=8VHjDtwmsbE)**: an animated video explaining the Legendre transform through balloons, 2022.
 
-<!-- Also: research numerics in Julia and Python (signal-recovery experiments for the compressed-sensing papers). Machinations demo link hidden while it 404s (repo mscott99/Machinations is private): https://mscott99.github.io/Machinations/Executables/web/index.html -->
+<!-- Machinations demo link hidden while it 404s (repo mscott99/Machinations is private): https://mscott99.github.io/Machinations/Executables/web/index.html -->
 
 <h2 id="blog">Blog posts</h2>
 
@@ -59,10 +60,10 @@ I also write software, mostly for research and note-taking, and I teach first-ye
 
 ## Experience
 
-- **Teaching Assistant, Research Assistant and Small Class Instructor**, University of British Columbia, 2021–present.
-- **Research Assistant in Computer Science**, McGill University, with Prakash Panangaden, summer 2020. Computational improvements to Yaida's FDR optimizer, and application to actor-critic RL.
-- **Machine Learning Intern**, Decathlon Canada, Montreal. Built a recurrent-network sales forecaster that beat four of five in-house models.
-- **Web Application Developer**, GoRush, Montreal. Sole developer of an on-demand lawn-mowing app (JavaScript, Meteor, MongoDB).
+- **Teaching Assistant, Research Assistant and Small Class Instructor**, University of British Columbia, 2021–present. Taught my own small classes in first-year calculus (MATH 100, MATH 180).
+- **Research Assistant in Computer Science**, McGill University, with Prakash Panangaden, Summer 2020. Computational improvements to Yaida's FDR optimizer, and application to actor-critic RL.
+- **Machine Learning Intern**, Decathlon Canada, Montreal, Summer 2018. Built a recurrent-network sales forecaster that beat four of five in-house models, the only one predicting long term.
+- **Mobile App Developer**, GoRush, Montreal, Summer 2017. Sole developer of an on-demand lawn-mowing app (JavaScript, Meteor, MongoDB).
 
 ## Talks
 
