@@ -1,6 +1,6 @@
 #import "@preview/minimalistic-latex-cv:0.1.0": cv
 
-// ACADEMIC CV (website cv.pdf): all information, no phone or address. Industry version: quant.typ.
+// ACADEMIC CV: all information, no phone or address; not served on the site (the site cv.pdf is quant.typ).
 
 // Old two-line entry (title/date, then institution/location); kept for the longer version.
 #let entry(title: "", name: "", date: "", location: "") = {

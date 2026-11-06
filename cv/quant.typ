@@ -1,6 +1,6 @@
 #import "@preview/minimalistic-latex-cv:0.1.0": cv
 
-// QUANT / INDUSTRY version (one page; also for tech). Public build (no phone): static/cv-industry.pdf. Academic version: academic.typ. Visible text is the CV. Blocks marked EXTRA are commented-out details
+// QUANT / INDUSTRY version (one page; also for tech). Public build (no phone): static/cv.pdf, the site CV. Academic version: academic.typ. Visible text is the CV. Blocks marked EXTRA are commented-out details
 // from older CVs (current_cv.pdf, latex_CV/main.tex, typst_cv) and the NSERC CPRA
 // notes; uncomment to use.
 
